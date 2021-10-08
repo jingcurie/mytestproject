@@ -1,0 +1,26 @@
+# Ignoring problematic Mac generated files
+.DS_Store
+
+# Ignoring ZIP files
+*.zip
+
+# Ignoring common image filetypes
+*.gif 
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.tif
+*.bmp
+
+# Ignoring common font filetypes
+*.woff
+*.woff2
+*.eot
+*.ttf
+*.otf
+
+# Ignoring videos
+*.mp4
+*.webm 
+*.ogv
